@@ -1,0 +1,5 @@
+com\mycompany\primeFaces\resources\JavaEE8Resource.class
+com\mycompany\primeFaces\JAXRSConfiguration.class
+view\backing\AdderBean.class
+view\backing\StudentBean.class
+view\backing\LineChartBean.class
